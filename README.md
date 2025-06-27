@@ -4,5 +4,5 @@
 - 機動戦士ガンダム 逆襲のシャア/Mobile Suit Gundam Char's Counterattack
 - ARIA The ORIGINATION
 - 魔法少女まどか☆マギカ/Puella Magi Madoka Magica
-
+- 機動戦士ガンダム0080 ポケットの中の戦争
   
