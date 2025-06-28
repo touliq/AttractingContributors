@@ -6,4 +6,4 @@
 - ARIA The ORIGINATION
 - 魔法少女まどか☆マギカ/Puella Magi Madoka Magica
 - 機動戦士ガンダム0080 ポケットの中の戦争
-  
+- ナルト
