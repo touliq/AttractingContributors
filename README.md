@@ -11,3 +11,4 @@
 - pickled plum and dried bonito flakes/うめおかか
 - wasabi
 - ume
+- meat
