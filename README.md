@@ -8,6 +8,7 @@ My favorite movie is 'Whiplash'.　What is your favorite movie?
 - Forrest Gump
 - サマーウォーズ
 - interstellar
+- tenet
 - silent of lamb/羊たちの沈黙
 - ラストマイル
 -
