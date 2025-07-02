@@ -12,3 +12,4 @@
 - wasabi
 - ume
 - salmon
+- meat
