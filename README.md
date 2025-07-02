@@ -14,3 +14,4 @@
 - salmon
 - meat
 - ume
+- tamago joyu
