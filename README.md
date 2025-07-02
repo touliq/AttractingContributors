@@ -13,3 +13,4 @@
 - ume
 - salmon
 - meat
+- ume
