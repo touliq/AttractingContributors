@@ -14,3 +14,4 @@
 - salmon
 - meat
 - ume
+- いくら/salmon roe
