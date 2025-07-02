@@ -15,3 +15,4 @@
 - meat
 - ume
 - いくら/salmon roe
+- tamago joyu
