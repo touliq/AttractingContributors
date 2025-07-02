@@ -16,4 +16,5 @@
 - ume
 - いくら/salmon roe
 - tamago joyu
--tuna mayo
+- Maguro
+- tuna mayo
