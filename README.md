@@ -18,3 +18,4 @@
 - tamago joyu
 - Maguro
 - tuna mayo
+- Fried Chicken
