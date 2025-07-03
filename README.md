@@ -1,5 +1,7 @@
-# Please indicate your favourite places to eat near NAIST.
+# What country are you interested in?
 
-# List of place
-- mamemame saisai
-- Gusto
+Share countries you'd like to visit or learn more about!
+
+## Countries of Interest
+- Japan
+- Iceland
