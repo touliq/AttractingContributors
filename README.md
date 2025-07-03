@@ -1,5 +1,3 @@
-# Please indicate your favourite places to eat near NAIST.
-
+# Please answer your favorite prefectures
 # List of place
-- mamemame saisai
-- Gusto
+- Hyogo
