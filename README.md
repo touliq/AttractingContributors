@@ -2,4 +2,5 @@
 
 # List of prefecture
 - Okinawa
+- Fukuoka
 - Aomori
