@@ -3,3 +3,4 @@
 - Hyogo
 - Hokkaidou
 - Kagawa
+- Osaka
