@@ -21,3 +21,4 @@
 - dried bonito flakes/おかか
 - Fried Chicken
 - Solt
+- Syake
