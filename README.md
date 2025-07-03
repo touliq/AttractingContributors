@@ -2,4 +2,4 @@
 
 # List of prefecture
 - Okinawa
-- 
+- Aomori
