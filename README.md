@@ -18,4 +18,5 @@
 - tamago joyu
 - Maguro
 - tuna mayo
+- dried bonito flakes/おかか
 - Fried Chicken
