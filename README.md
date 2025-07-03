@@ -2,3 +2,4 @@
 # List of place
 - Hyogo
 - Hokkaidou
+- Kagawa
