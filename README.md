@@ -5,3 +5,4 @@
 - Kagawa
 - Osaka
 - Kumamoto
+- Okinawa
