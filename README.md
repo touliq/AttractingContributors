@@ -22,3 +22,4 @@
 - Fried Chicken
 - Solt
 - Syake
+- torosa-mon
