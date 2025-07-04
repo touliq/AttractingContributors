@@ -4,3 +4,4 @@
 - Hokkaidou
 - Kagawa
 - Osaka
+- Kumamoto
