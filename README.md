@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# 食堂のお気に入りメニューは？/ What's your favorite menu at the school cafeteria
 
-# List of place
-- mamemame saisai
-- Gusto
+## Menu list
+1. 
