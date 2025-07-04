@@ -4,3 +4,4 @@
 - Okinawa
 - Fukuoka
 - Aomori
+- hokkaidou
