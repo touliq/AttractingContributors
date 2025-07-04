@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favourite movie.
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of movie
+- The Secret Life of Walter Mitty
