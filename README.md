@@ -1,6 +1,6 @@
 # If you were to grow a vegetable, which one would you pick?
 
-# List of place
+# List of vegetables
 1. onion (たまねぎ)
 2. potato (じゃがいも)
 3. carrot (人参)
