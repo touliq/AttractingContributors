@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please tell me your favorite comedian. / 好きな芸人を教えてください。
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of Comedian
+- Mamatarte / ママタルト
