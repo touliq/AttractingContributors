@@ -1,5 +1,14 @@
-# Please indicate your favourite places to eat near NAIST.
+# Which country do you want to go to?
 
 # List of place
-- mamemame saisai
-- Gusto
+- **Australia**: 
+- **Canada**: 
+- **Egypt**: 
+- **Iceland**:
+- **Italy**: 
+- **Japan**: 
+- **Morocco**:
+- **New Zealand**:
+- **Norway**: 
+- **Peru**: 
+
