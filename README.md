@@ -3,3 +3,4 @@
 # List of Comedian
 - Mamatarte / ママタルト
 - alco & peace / アルコ&ピース
+-soshina / 粗品
