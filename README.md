@@ -11,3 +11,4 @@ Please indicate your cool sport.
 - Volleyball
 - Table Tennis
 - Figure Skating
+- Tennis
