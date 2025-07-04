@@ -1,4 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# If you were to grow some vegetables, which ones would you pick?
 
 # List of place
 - mamemame saisai
