@@ -12,3 +12,4 @@
 9. lettuce (レタス)
 10. chinese cabbage (白菜)
 11. cabbage (キャベツ)
+12. Japanese white radish (大根)
