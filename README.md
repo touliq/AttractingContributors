@@ -4,6 +4,7 @@
 
 # what is your favorite novel
 My favorite novel is 「Pride and Goodness(Mitsuki Tsujimura)」
+the few but the heavy:book 2
 
 # List of place
 - 「西の魔女が死んだ/The Witch of the West is Dead」 (梨木香歩/Kaho Nasiki)
