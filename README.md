@@ -11,5 +11,6 @@
 # List of place
 ### movie 
 - The Castle of Cagliostro/カリオストロの城
+- Tonari no totoro/となりのトトロ
 
 ### character
