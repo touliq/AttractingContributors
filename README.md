@@ -11,6 +11,7 @@ My favorite movie is 'Whiplash'.　What is your favorite movie?
 - tenet
 - silent of lamb/羊たちの沈黙
 - ラストマイル
+- The ship ocan
 - ルックバック
 - Lord of the rings
 - interstellar 
