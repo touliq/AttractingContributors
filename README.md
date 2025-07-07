@@ -11,6 +11,7 @@ My favorite movie is 'Whiplash'.　What is your favorite movie?
 - tenet
 - silent of lamb/羊たちの沈黙
 - ラストマイル
+- Lord of the rings
 - interstellar 
 - Dead Poets Society
 - the Greatest Showman
