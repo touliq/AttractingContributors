@@ -6,3 +6,4 @@ Share countries you'd like to visit or learn more about!
 - Japan
 - Australia
 - America
+- Switzerland
